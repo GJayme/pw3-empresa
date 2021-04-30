@@ -1,6 +1,8 @@
 # pw3-empresa
 
-Scrip BD:
+##Scrip BD:
+
+
 create database empresa;
 use empresa;
 
